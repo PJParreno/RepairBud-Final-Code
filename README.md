@@ -5,7 +5,7 @@ To run project:
 
 Start Front-End
 ---------------
-1). Download as zip
+1). Download as zip <br />
 2). Use visual studio code to open the contents of the folder
 3). Open a new terminal within the application
 5). Run 'npm install' - install all dependencies need
