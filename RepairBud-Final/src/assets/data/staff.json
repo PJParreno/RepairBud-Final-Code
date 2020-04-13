@@ -1,0 +1,31 @@
+[{
+    "id": "001",
+    "img": "assets/images/user/user1.jpg",
+    "designation": "Service Advisor",
+    "email": "test@email.com",
+    "date": "2018-02-25T14:22:18Z",
+    "mobile": "1234567890",
+    "name": "Dave Rambajan",
+    "address": "12 Northpark Street"
+  },
+  {
+    "id": "002",
+    "img": "assets/images/user/user2.jpg",
+    "designation": "Service Coordinatoor",
+    "email": "test@email.com",
+    "date": "2018-02-12T14:22:18Z",
+    "mobile": "1234567890",
+    "name": "Alisa Puran",
+    "address": "29 Curbside Drive"
+  },
+  {
+    "id": "003",
+    "img": "assets/images/user/user3.jpg",
+    "designation": "Service Concierge",
+    "email": "test@email.com",
+    "date": "2018-02-25T14:22:18Z",
+    "mobile": "1234567890",
+    "name": "Varun Patel",
+    "address": "201 Knights Bridge"
+  }
+]
